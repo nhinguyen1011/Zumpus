@@ -1,0 +1,26 @@
+(0, 1): moveforward 
+(0, 2): moveforward 
+(0, 3): moveforward 
+(0, 4): moveforward 
+(0, 5): moveforward 
+(1, 5): moveforward 
+(2, 5): moveforward 
+(2, 6): moveforward 
+(2, 7): moveforward 
+(2, 8): moveforward 
+(1, 8): collected gold
+(1, 8): moveforward 
+(0, 8): moveforward 
+(0, 8): turn right
+(0, 9): moveforward 
+(0, 9): turn right
+(1, 9): moveforward 
+(2, 9): moveforward 
+(3, 9): moveforward 
+(4, 9): moveforward 
+(5, 9): moveforward 
+(6, 9): moveforward 
+(7, 9): moveforward 
+(8, 9): moveforward 
+Score: 4980
+Hp: 100
